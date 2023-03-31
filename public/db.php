@@ -1,7 +1,7 @@
 <?php
 
 // Configuración de la conexión
-$servername = "localhost";
+$servername = "179.49.158.2/32";
 $username = "admin";
 $password = "KNxRqeert9SXREdCe6eeYndEUv4vvRV1";
 $dbname = "bd2023";
