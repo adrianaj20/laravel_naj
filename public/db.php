@@ -1,7 +1,7 @@
 <?php
 
 // Configuración de la conexión
-$servername = "dpg-cggrd7keoogqfc463qlg-a";
+$servername = "localhost";
 $username = "admin";
 $password = "KNxRqeert9SXREdCe6eeYndEUv4vvRV1";
 $dbname = "bd2023";
